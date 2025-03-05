@@ -14,5 +14,5 @@ Testing: Test with sample data.
 // How to Use
 1. Open the web application in your browser.
 2. Utilize the spreadsheet functionalities such as cell formatting, mathematical functions, and data validation.
-3. Save or import JSON data for better data handling.
+3. Save or import JSON data for better data handling
 
