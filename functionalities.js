@@ -110,7 +110,6 @@ function alignment(align){
 }
 
 
-
 document.querySelector('.copy').addEventListener('click', (event) => {
     event.stopPropagation();
     if (activeCell) {
