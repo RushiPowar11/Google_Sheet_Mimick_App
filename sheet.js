@@ -88,7 +88,6 @@ function resetFunctionality(){
     formula.value = '';
 }
 
-
 // Create first sheet
 createNewSheet();
 // createNewSheet();
