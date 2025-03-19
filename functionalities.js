@@ -8,6 +8,7 @@ function setFont(target){
         activeCell.focus();
     }
 }
+
 function setSize(target){
     if(activeCell){
         let sizeInput = target.value;
